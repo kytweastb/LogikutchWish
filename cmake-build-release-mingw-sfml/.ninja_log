@@ -1,0 +1,13 @@
+# ninja log v6
+3	361	7610700606412667	CMakeFiles/LogikutchWish.dir/main.cpp.obj.ddi	513edc7aedcf58ac
+362	384	7610700610184974	CMakeFiles/LogikutchWish.dir/CXX.dd	7b98ca334f35c38e
+362	384	7610700610184974	C:/Users/cyril/CLionProjects/LogikutchWish/cmake-build-release-mingw-sfml/CMakeFiles/LogikutchWish.dir/CXXModules.json	7b98ca334f35c38e
+362	384	7610700610184974	CMakeFiles/LogikutchWish.dir/main.cpp.obj.modmap	7b98ca334f35c38e
+384	2006	7610700610224967	CMakeFiles/LogikutchWish.dir/main.cpp.obj	3930bfeb7283b5f8
+2010	2177	7610700626489812	LogikutchWish.exe	56aaa8789a570fa5
+7	310	7610700804831461	CMakeFiles/LogikutchWish.dir/main.cpp.obj.ddi	513edc7aedcf58ac
+312	332	7610700807882753	CMakeFiles/LogikutchWish.dir/CXX.dd	7b98ca334f35c38e
+312	332	7610700807882753	C:/Users/cyril/CLionProjects/LogikutchWish/cmake-build-release-mingw-sfml/CMakeFiles/LogikutchWish.dir/CXXModules.json	7b98ca334f35c38e
+312	332	7610700807882753	CMakeFiles/LogikutchWish.dir/main.cpp.obj.modmap	7b98ca334f35c38e
+333	1779	7610700808092750	CMakeFiles/LogikutchWish.dir/main.cpp.obj	3930bfeb7283b5f8
+1779	1901	7610700822556809	LogikutchWish.exe	56aaa8789a570fa5
