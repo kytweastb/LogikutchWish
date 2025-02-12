@@ -3,7 +3,7 @@ project(LogikutchWish)
 
 set(CMAKE_CXX_STANDARD 20)
 
-set(SFML_DIR "C:/Program Files/Mingw/SFML/SFML-3.0.0")
+set(SFML_DIR "D:/Documents/projets/LogikutchWish/SFML-3.0.0")
 
 find_package(SFML 3 REQUIRED COMPONENTS Graphics System)
 
